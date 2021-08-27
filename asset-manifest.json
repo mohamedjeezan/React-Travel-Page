@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-Travel-Page/static/css/main.48c625cd.chunk.css",
+    "main.js": "/React-Travel-Page/static/js/main.3f4a987c.chunk.js",
+    "main.js.map": "/React-Travel-Page/static/js/main.3f4a987c.chunk.js.map",
+    "runtime-main.js": "/React-Travel-Page/static/js/runtime-main.d1c9ec57.js",
+    "runtime-main.js.map": "/React-Travel-Page/static/js/runtime-main.d1c9ec57.js.map",
+    "static/js/2.e98e398b.chunk.js": "/React-Travel-Page/static/js/2.e98e398b.chunk.js",
+    "static/js/2.e98e398b.chunk.js.map": "/React-Travel-Page/static/js/2.e98e398b.chunk.js.map",
+    "index.html": "/React-Travel-Page/index.html",
+    "static/css/main.48c625cd.chunk.css.map": "/React-Travel-Page/static/css/main.48c625cd.chunk.css.map",
+    "static/js/2.e98e398b.chunk.js.LICENSE.txt": "/React-Travel-Page/static/js/2.e98e398b.chunk.js.LICENSE.txt",
+    "static/media/china.0678cde7.jpg": "/React-Travel-Page/static/media/china.0678cde7.jpg",
+    "static/media/drawing.8bbed001.jpg": "/React-Travel-Page/static/media/drawing.8bbed001.jpg",
+    "static/media/Header.css": "/React-Travel-Page/static/media/img-home.2e8ffca5.jpg",
+    "static/media/srilanka.6f097858.jpg": "/React-Travel-Page/static/media/srilanka.6f097858.jpg",
+    "static/media/surfing.5f7b8b5c.jpg": "/React-Travel-Page/static/media/surfing.5f7b8b5c.jpg",
+    "static/media/waterfall.533b9340.jpg": "/React-Travel-Page/static/media/waterfall.533b9340.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1c9ec57.js",
+    "static/js/2.e98e398b.chunk.js",
+    "static/css/main.48c625cd.chunk.css",
+    "static/js/main.3f4a987c.chunk.js"
+  ]
+}
